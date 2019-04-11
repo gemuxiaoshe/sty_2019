@@ -6,7 +6,9 @@ package My_tools;
  */
 public class Boundlinetool{
 
+
     public static void Minus(){
+
         System.out.println("---------------------Ğ¡ÉáÏÈÉú---------------------");
     }
 }
