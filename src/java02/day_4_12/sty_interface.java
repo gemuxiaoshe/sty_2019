@@ -3,6 +3,7 @@ package java02.day_4_12;
 /**
  * @outhor xiaoshe
  * @date 2019/4/13  - @time 1:35
+ * ½Ó¿Ú
  */
 public class sty_interface {
     public static void main(String[] args) {

@@ -25,9 +25,6 @@ public class sty_class {
         System.out.println(animal1.getindepentThing());
         System.out.println(args.length);
     }
-    public static class book{
-
-    }
 }
 /**
  * 我们在同一个java文件里,可以声明多个不同的类.
